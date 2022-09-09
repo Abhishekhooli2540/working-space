@@ -1,0 +1,258 @@
+.u-section-1 {
+  min-height: 1002px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 620px;
+  background-image: url("images/pnghut_veterinarian-veterinary-medicine-pet-cat-poster.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 372px;
+  background-image: linear-gradient(#478ac9, #db545a);
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 40px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 60px;
+  width: 60px;
+  color: rgb(255, 255, 255) !important;
+  margin: 1px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 400;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 21px 0 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 375px;
+  background-image: linear-gradient(#eafdfc, #292e33);
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 40px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 60px;
+  width: 60px;
+  color: rgb(255, 255, 255) !important;
+  margin: 34px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 21px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/zhaolong-V-b68_mY2Ws-unsplash2.jpg");
+  background-position: 50% 50%;
+  min-height: 617px;
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 532px;
+  animation-duration: 1000ms;
+  background-image: url("images/Happy-Dog.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-6 {
+  min-height: 460px;
+  background-image: linear-gradient(#2cccc4, #f5d654);
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px 40px;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 60px;
+  width: 60px;
+  background-image: none;
+  color: rgb(71, 138, 201) !important;
+  margin: 63px auto 0;
+}
+
+.u-section-1 .u-text-5 {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 400;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 21px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 828px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 511px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 307px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 310px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 508px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 439px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 379px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 1806px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 587px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 584px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 1009px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 1949px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 881px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 876px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 757px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 1299px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 555px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 552px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 477px;
+  }
+}
